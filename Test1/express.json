@@ -1,14 +1,1 @@
-[
-    {
-        "name": "Jane Doe",
-        "age": 20,
-        "courseIds": [
-            "Course Id"
-        ]
-    },
-    {
-        "title": "course 1",
-        "duration": "duration1",
-        "Instructor": "name1"
-    }
-]
+
